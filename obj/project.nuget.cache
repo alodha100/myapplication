@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zK9DlXrj67Zjex++E27/Yi9u6QVxbfaEag/Sykef7deRCOT2NMJVYJJ6dfgnq+fO6SZnsAqzTY5XtTBCaGoxOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AjayKumarLodha\\Desktop\\Code\\myWebApp\\myWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AjayKumarLodha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
